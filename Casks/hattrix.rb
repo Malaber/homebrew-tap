@@ -1,8 +1,8 @@
 cask "hattrix" do
-  version "1.0.0"
-  sha256 "PASTE_YOUR_SHA256_HERE"
+  version "1.0.4"
+  sha256 "216b91c029ea6dc043e5df6749dbd57c9961a49c335a9eb368c9334d73d63137"
 
-  url "https://github.com/Malaber/hattrix/releases/download/v#{version}/Hattrix.zip"
+  url "https://github.com/Malaber/hattrix/releases/download/v1.0.4/Hattrix.zip"
   name "Hattrix"
   desc "Malaber's Hat of Trix: Teams Mute Toggle & Utilities"
   homepage "https://github.com/Malaber/hattrix"
